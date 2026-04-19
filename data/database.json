@@ -1,0 +1,205 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Laptop",
+      "price": 50000,
+      "image": "https://images.pexels.com/photos/18105/pexels-photo.jpg",
+      "reviews": 120,
+      "description": "Powerful laptop with 16GB RAM, 512GB SSD, perfect for work and gaming.",
+      "quantity": 1
+    },
+    {
+      "id": "2",
+      "name": "Smartphone",
+      "price": 20000,
+      "image": "https://images.pexels.com/photos/699122/pexels-photo-699122.jpeg",
+      "reviews": 95,
+      "description": "High-performance smartphone with excellent camera and battery life.",
+      "quantity": 1
+    },
+    {
+      "id": "3",
+      "name": "Headphones",
+      "price": 3000,
+      "image": "https://images.pexels.com/photos/3394650/pexels-photo-3394650.jpeg",
+      "reviews": 80,
+      "description": "Noise-cancelling headphones with deep bass and crystal clear sound.",
+      "quantity": 1
+    },
+    {
+      "id": "4",
+      "name": "Smart Watch",
+      "price": 5000,
+      "image": "https://images.pexels.com/photos/437037/pexels-photo-437037.jpeg",
+      "reviews": 60,
+      "description": "Track your fitness and notifications with this stylish smartwatch.",
+      "quantity": 1
+    },
+    {
+      "id": "5",
+      "name": "Camera",
+      "price": 25000,
+      "image": "https://images.pexels.com/photos/51383/photo-camera-subject-photographer-51383.jpeg",
+      "reviews": 70,
+      "description": "Capture stunning photos with high resolution and advanced features.",
+      "quantity": 1
+    },
+    {
+      "id": "6",
+      "name": "Tablet",
+      "price": 15000,
+      "image": "https://images.pexels.com/photos/5082566/pexels-photo-5082566.jpeg",
+      "reviews": 55,
+      "description": "Lightweight tablet perfect for entertainment and productivity.",
+      "quantity": 1
+    },
+    {
+      "id": "7",
+      "name": "Gaming Laptop",
+      "price": 80000,
+      "image": "https://images.pexels.com/photos/777001/pexels-photo-777001.jpeg",
+      "reviews": 110,
+      "description": "High-end gaming laptop with powerful GPU and fast performance.",
+      "quantity": 1
+    },
+    {
+      "id": "8",
+      "name": "Bluetooth Speaker",
+      "price": 2500,
+      "image": "https://images.pexels.com/photos/63703/pexels-photo-63703.jpeg",
+      "reviews": 65,
+      "description": "Portable speaker with rich sound and long battery life.",
+      "quantity": 1
+    },
+    {
+      "id": "9",
+      "name": "Wireless Mouse",
+      "price": 800,
+      "image": "https://images.pexels.com/photos/2115257/pexels-photo-2115257.jpeg",
+      "reviews": 40,
+      "description": "Ergonomic wireless mouse with smooth tracking.",
+      "quantity": 1
+    },
+    {
+      "id": "10",
+      "name": "Keyboard",
+      "price": 1500,
+      "image": "https://images.pexels.com/photos/1779487/pexels-photo-1779487.jpeg",
+      "reviews": 45,
+      "description": "Mechanical keyboard with comfortable typing experience.",
+      "quantity": 1
+    },
+    {
+      "id": "11",
+      "name": "Monitor",
+      "price": 12000,
+      "image": "https://images.pexels.com/photos/1714208/pexels-photo-1714208.jpeg",
+      "reviews": 75,
+      "description": "Full HD monitor with vibrant display and slim design.",
+      "quantity": 1
+    },
+    {
+      "id": "12",
+      "name": "Power Bank",
+      "price": 1200,
+      "image": "https://images.pexels.com/photos/4526407/pexels-photo-4526407.jpeg",
+      "reviews": 50,
+      "description": "Fast charging power bank with high capacity battery.",
+      "quantity": 1
+    },
+    {
+      "id": "13",
+      "name": "Earbuds",
+      "price": 2000,
+      "image": "https://images.pexels.com/photos/3780681/pexels-photo-3780681.jpeg",
+      "reviews": 85,
+      "description": "Wireless earbuds with immersive sound and compact design.",
+      "quantity": 1
+    },
+    {
+      "id": "14",
+      "name": "DSLR Camera",
+      "price": 60000,
+      "image": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg",
+      "reviews": 90,
+      "description": "Professional DSLR camera for high-quality photography.",
+      "quantity": 1
+    },
+    {
+      "id": "15",
+      "name": "Tripod",
+      "price": 1800,
+      "image": "https://images.pexels.com/photos/3825581/pexels-photo-3825581.jpeg",
+      "reviews": 35,
+      "description": "Stable tripod for photography and video recording.",
+      "quantity": 1
+    },
+    {
+      "id": "16",
+      "name": "VR Headset",
+      "price": 10000,
+      "image": "https://images.pexels.com/photos/4145195/pexels-photo-4145195.jpeg",
+      "reviews": 60,
+      "description": "Experience immersive virtual reality gaming and videos.",
+      "quantity": 1
+    },
+    {
+      "id": "17",
+      "name": "Smart TV",
+      "price": 40000,
+      "image": "https://images.pexels.com/photos/1201996/pexels-photo-1201996.jpeg",
+      "reviews": 100,
+      "description": "Smart TV with 4K resolution and streaming apps.",
+      "quantity": 1
+    },
+    {
+      "id": "18",
+      "name": "Router",
+      "price": 2500,
+      "image": "https://images.pexels.com/photos/4218546/pexels-photo-4218546.jpeg",
+      "reviews": 30,
+      "description": "High-speed WiFi router for stable internet connection.",
+      "quantity": 1
+    },
+    {
+      "id": "19",
+      "name": "External Hard Drive",
+      "price": 5000,
+      "image": "https://images.pexels.com/photos/4792728/pexels-photo-4792728.jpeg",
+      "reviews": 55,
+      "description": "Portable hard drive with large storage capacity.",
+      "quantity": 1
+    },
+    {
+      "id": "20",
+      "name": "USB Flash Drive",
+      "price": 600,
+      "image": "https://images.pexels.com/photos/4526407/pexels-photo-4526407.jpeg",
+      "reviews": 25,
+      "description": "Compact USB flash drive with fast data transfer speed.",
+      "quantity": 1
+    }
+  ],
+  "user": [
+    {
+      "name": "Mayakrishnan",
+      "email": "krishnanmaha086@gmail.com",
+      "password": "12345",
+      "id": "ooBtln0jBc4"
+    },
+    {
+      "name": "Jagan",
+      "email": "jagan123@gmail.com",
+      "password": "12345",
+      "id": "_DcMs-KsI-4"
+    }
+  ],
+  "currentUser": [
+    {
+      "name": "Mayakrishnan",
+      "id": "DYnexp6Nir8"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}

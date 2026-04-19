@@ -1,0 +1,16 @@
+body {
+    background: #f8f9fa;
+}
+
+.hero {
+    min-height: 80vh;
+
+    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
+        url('https://images.pexels.com/photos/5632402/pexels-photo-5632402.jpeg');
+
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
+    color: white;
+}
