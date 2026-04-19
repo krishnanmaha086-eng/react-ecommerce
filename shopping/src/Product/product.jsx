@@ -11,7 +11,7 @@ export default function Product() {
     const { id } = useParams();
 
     useEffect(() => {
-        fetch("http://localhost:3000/products/" + id)
+        fetch("https://fakestoreapi.com/products/" + id)
             .then(res => {
                 if (!res.ok) {
                     throw new Error("Product not found");
