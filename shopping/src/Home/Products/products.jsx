@@ -11,7 +11,7 @@ export default function Products() {
     const { addCart } = useContext(dataContext);
 
     useEffect(() => {
-        fetch("http://localhost:3000/products")
+        fetch("https://fakestoreapi.com/products")
             .then(response => {
                 if (!response.ok) {
                     throw Error("Failed to Fetch")
