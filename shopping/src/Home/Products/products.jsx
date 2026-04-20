@@ -41,12 +41,12 @@ export default function Products() {
                                 <img
                                     src={product.image}
                                     className="card-img-top"
-                                    alt={product.name}
+                                    alt={product.title}
                                     style={{ height: "200px", objectFit: "cover" }}
                                 />
 
                                 <div className="card-body">
-                                    <h5>{product.name}</h5>
+                                    <h5>{product.title}</h5>
                                     <p className="fw-bold text-success">₹{product.price}</p>
                                     <button onClick={() => addCart(product)} className="btn btn-success col-md-4 m-1">
                                         Add to Cart
