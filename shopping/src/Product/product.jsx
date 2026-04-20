@@ -37,10 +37,10 @@ export default function Product() {
 
                 <div className="col-md-6">
 
-                    <h2 className="fw-bold">{product.name}</h2>
+                    <h2 className="fw-bold">{product.title}</h2>
 
                     <div className="text-warning mb-2">
-                        <h3>★★★★☆ ({product.reviews} reviews)</h3>
+                        <h3>★★★★☆ ({product.rating} reviews)</h3>
                     </div>
 
                     <div className="mb-3">
@@ -55,7 +55,7 @@ export default function Product() {
                     </div> */}
 
                     <div className="card-body">
-                        <h5>{product.name}</h5>
+                        <h5>{product.title}</h5>
                         <p className="fw-bold text-success">₹{product.price}</p>
                         <button onClick={() => addCart(product)} className="btn btn-success col-md-4 m-1">
                             Add to Cart
