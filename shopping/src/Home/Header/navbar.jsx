@@ -69,7 +69,7 @@ export default function Navbar() {
                                                 navigate(`/product/${item.id}`)
                                                 setSearch("")
                                             }}
-                                        >{item.name}
+                                        >{item.title}
                                         </div>
                                     )) : (
                                         <div className="p-2">No results</div>
