@@ -40,7 +40,7 @@ export default function Product() {
                     <h2 className="fw-bold">{product.title}</h2>
 
                     <div className="text-warning mb-2">
-                        <h3>★★★★☆ ({product.rating} reviews)</h3>
+                        <h3>★★★★☆ ({product.rating.rate} reviews)</h3>
                     </div>
 
                     <div className="mb-3">
