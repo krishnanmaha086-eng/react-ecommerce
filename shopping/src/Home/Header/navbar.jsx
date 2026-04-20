@@ -12,7 +12,7 @@ export default function Navbar() {
     const [search, setSearch] = useState('');
 
     useEffect(() => {
-        fetch("http://localhost:3000/products")
+        fetch("https://fakestoreapi.com/products")
             .then(res => res.json())
             .then(data => setData(data));
     }, []);
