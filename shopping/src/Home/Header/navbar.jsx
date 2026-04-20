@@ -18,7 +18,7 @@ export default function Navbar() {
     }, []);
 
     const searchValue = data.filter((s) =>
-        s.name.toLowerCase().includes(search.toLowerCase())
+        s.title.toLowerCase().includes(search.toLowerCase())
     );
 
     const navigate = useNavigate();
